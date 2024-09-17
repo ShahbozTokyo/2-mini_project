@@ -1,0 +1,68 @@
+body {
+    background-color:#F4CF4E;
+    
+}
+ /* container part */
+        .container {
+            width: 400px;
+            height: 550px;
+            
+            border: 2px solid black;
+            border-radius: 10px;
+            box-sizing: border-box;
+            margin-top: 50px;
+            margin-bottom: 50px;
+            margin-left: 450px;
+            background-color: aliceblue;
+        }
+
+/* container-2 part */
+        .container-2 {
+            margin: 10px;
+            box-sizing:border-box;
+        }
+
+        .container-2 img {
+            width: 350px;
+            margin-left: 12px;
+            border: 0;
+            border-radius: 10px;
+        }
+
+/* learning part */
+    .learning {
+        display: inline-block;
+        background-color: #F4CF4E;
+        margin-top: 10px;
+        margin-left: 12px;
+        border-radius: 4px;
+        padding: 2px 10px;
+        color: black;
+        font-family: sans-serif;
+        font-size: 20px;
+        font:bold;
+    }
+/* paragraph part */
+        .paragraph {
+            margin-left: 12px;
+        }
+
+.container-2 h1 {
+    font-size: 24px;
+    margin-left: 12px;
+}
+
+.opacity {
+    font-family: sans-serif;
+    opacity: 0.5;
+    margin-left: 12px;
+}
+/* image part */
+    .box img {
+        width: 50px;
+        height: 50px;
+        margin-left: 12px;
+        border-radius: 50%;
+    }
+
+    
